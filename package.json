@@ -1,7 +1,7 @@
 {
   "name": "templatize-string",
   "main": "./lib/templatize-string",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An additive string to ES6 template strings converter",
   "keywords": [],
   "activationCommands": {
