@@ -2,7 +2,7 @@
   "name": "templatize-string",
   "main": "./lib/templatize-string",
   "version": "0.2.1",
-  "description": "An additive string to ES6 template string converter",
+  "description": "An additive string to ES6 template string converter.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "templatize-string:fetch"

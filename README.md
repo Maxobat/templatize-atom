@@ -1,6 +1,6 @@
 # Templatize
 
-Convert additive strings to ES6 template strings
+Convert additive strings to ES6 template strings.
 
 ## Example
 ```javascript
@@ -15,8 +15,8 @@ Compiles to
 
 ## Activation Methods
 
-#### Context Menu
-"ES6 Template String"
-
 #### Keyboard Shortcut
 cmd-alt-shift-T
+
+#### Context Menu
+"ES6 Template String"
