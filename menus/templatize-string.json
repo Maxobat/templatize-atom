@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "ES6 Templatize String",
+        "command": "templatize-string:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "templatize-string",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "templatize-string:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
