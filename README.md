@@ -15,8 +15,8 @@ Compiles to
 
 ## Activation Methods
 
-#### Keyboard Shortcut
-```cmd-alt-shift-T```
-
 #### Context Menu
 "ES6 Template String"
+
+#### Keyboard Shortcut
+```cmd-alt-shift-T```
