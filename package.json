@@ -1,13 +1,13 @@
 {
   "name": "templatize-string",
   "main": "./lib/templatize-string",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "An additive string to ES6 template strings converter",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "templatize-string:fetch"
   },
-  "repository": "https://github.com/atom/templatize-string",
+  "repository": "https://github.com/Maxobat/templatize-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
