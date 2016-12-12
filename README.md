@@ -19,4 +19,4 @@ Compiles to
 "ES6 Template String"
 
 #### Keyboard Shortcut
-```cmd-alt-shift-T```
+cmd-alt-shift-T
